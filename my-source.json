@@ -1,6 +1,6 @@
 {
   "name": "hanime1自建源",
-  "type": "web",
+  "type": "css",
   "search": {
     "url": "https://hanime1.me//search?query={keyword}",
     "method": "GET"
@@ -11,7 +11,7 @@
   "play": {
     "url": "https://hanime1.me//watch?v={id}"
   },
-  "timeout": 15000,
+  "timeout": 10000,
   "cacheTime": 86400,
-  "ua": "Mozilla/5.0 (Android 13; Mobile) Chrome/124.0.0.0 Mobile Safari/537.36
+  "ua": "Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 Chrome/128.0.0.0 Mobile Safari/537.36"
 }
