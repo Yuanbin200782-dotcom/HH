@@ -12,5 +12,6 @@
     "url": "https://hanime1.me//watch?v={id}"
   },
   "timeout": 15000,
-  "ua": "Mozilla/5.0 (Android) Chrome/120.0.0.0 Mobile Safari/537.36"
+  "cacheTime": 86400,
+    "ua": "Mozilla/5.0 (Android 13; Mobile) Chrome/124.0.0.0 Mobile Safari/537.36
 }
