@@ -2,14 +2,14 @@
   "name": "hanime1自建源",
   "type": "web",
   "search": {
-    "url": "https://shturl.cc//search?q={keyword}",
+    "url": "https://hanime1.me//search?query={keyword}",
     "method": "GET"
   },
   "detail": {
-    "url": "https://shturl.cc//watch/{id}"
+    "url": "https://hanime1.me//watch?v={id}"
   },
   "play": {
-    "url": "https://shturl.cc//watch/{id}"
+    "url": "https://hanime1.me//watch?v={id}"
   },
   "timeout": 10000,
   "cacheTime": 3600
