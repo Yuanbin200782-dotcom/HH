@@ -1,0 +1,16 @@
+{
+  "name": "hanime1自建源",
+  "type": "web",
+  "search": {
+    "url": "https://shturl.cc//search?q={keyword}",
+    "method": "GET"
+  },
+  "detail": {
+    "url": "https://shturl.cc//watch/{id}"
+  },
+  "play": {
+    "url": "https://shturl.cc//watch/{id}"
+  },
+  "timeout": 10000,
+  "cacheTime": 3600
+}
