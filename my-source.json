@@ -1,17 +1,21 @@
 {
-  "name": "hanime1自建源",
-  "type": "css",
-  "search": {
-    "url": "https://hanime1.me//search?query={keyword}",
-    "method": "GET"
-  },
-  "detail": {
-    "url": "https://hanime1.me//watch?v={id}"
-  },
-  "play": {
-    "url": "https://hanime1.me//watch?v={id}"
-  },
-  "timeout": 10000,
-  "cacheTime": 86400,
-  "ua": "Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 Chrome/128.0.0.0 Mobile Safari/537.36"
+   "exportedMediaSourceDataList": [
+     {
+       "name": "Hanime1",
+       "type": "web",
+       "search": {
+         "url": "https://hanime1.me/search?query={keyword}",
+         "method": "get"
+       },
+       "detail": {
+         "url": "https://hanime1.me/watch?v={id}"
+       },
+       "play": {
+         "url": "https://hanime1.me/watch?v={id}"
+       },
+       "timeout": 10000,
+       "cacheTime": 86400,
+       "ua": "Mozilla/5.0 (Linux; Android 14) Chrome/128.0.0.0 Mobile Safari/537.36"
+     }
+   ]
 }
